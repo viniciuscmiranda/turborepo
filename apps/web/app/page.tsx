@@ -3,7 +3,7 @@ import { Button, Header } from "ui";
 export default function Page(): JSX.Element {
   return (
     <>
-      <Header text="Web" />
+      <Header text="Web Updated" />
       <Button />
     </>
   );
